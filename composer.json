@@ -1,0 +1,10 @@
+{
+  "require-dev": {
+    "phpdocumentor/phpdocumentor": "^2.0"
+  },
+    "require": {
+        "twbs/bootstrap": "^4.5"
+    }
+
+}
+
